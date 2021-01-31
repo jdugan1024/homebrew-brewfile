@@ -134,6 +134,7 @@ cask "rectangle"
 cask "slack"
 #cask "sourcetree"
 #cask "spectacle"
+cask "spotify"
 #cask "transmit"
 cask "vagrant"
 #cask "vip-access"
@@ -168,10 +169,3 @@ mas "TickTick", id: 966085870
 #mas "Vimeo", id: 1356686763
 mas "Xcode", id: 497799835
 
-# Personal: Cedric
-# cask "ableton-live-standard9"
-# cask "native-access" # Native Instruments Installer
-# cask "spotify"
-# cask "quik"
-# cask "unity"
-# mas "WhatsApp Desktop", id: 1147396723
